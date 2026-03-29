@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" {{ $attributes }}>
+    <rect width="128" height="128" rx="28" fill="#FFFBF1"/>
+    <path d="M14 54C24 35 42 25 68 25C88 25 104 31 117 42" stroke="#FFB2B2" stroke-width="5" stroke-linecap="round"/>
+    <path d="M27 95C48 106 74 109 99 103C108 100 116 96 122 90" stroke="#E36A6A" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M23 33H48C59 33 67 40 67 50C67 57 63 62 57 65L68 95H55L46 69H35V95H23V33ZM35 44V59H46C52 59 55 56 55 51C55 46 51 44 46 44H35Z" fill="#E36A6A"/>
+    <path d="M73 79C79 85 85 88 92 88C99 88 103 85 103 81C103 76 99 74 88 71C74 68 67 62 67 51C67 40 76 33 90 33C99 33 108 36 116 42L109 52C103 48 96 46 90 46C84 46 80 48 80 52C80 57 84 58 96 61C110 64 116 69 116 81C116 93 106 100 91 100C80 100 71 96 63 89L73 79Z" fill="#E36A6A"/>
+</svg>
